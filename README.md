@@ -1,2 +1,2 @@
 # React-Final-Challenge
-Build a Real Data App. Fetch &amp; Display. Use useEffect and fetch to get products. Display each product's title and price in a list. Add a loading state. Show an error message if the fetch fails. Add a Route. Install react-router-dom. Create ProductList and About pages. Add a NavBar with Link to both.
+Build a Real Data App. Fetch & Display. Use useEffect and fetch to get products. Display each product's title and price in a list. Add a loading state. Show an error message if the fetch fails. Add a Route. Install react-router-dom. Create ProductList and About pages. Add a NavBar with Link to both.
